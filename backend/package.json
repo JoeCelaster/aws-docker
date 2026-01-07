@@ -1,0 +1,23 @@
+{
+  "name": "aws-docker",
+  "version": "1.0.0",
+  "description": "Aws and docker test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeCelaster/aws-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeCelaster/aws-docker/issues"
+  },
+  "homepage": "https://github.com/JoeCelaster/aws-docker#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
